@@ -1,0 +1,8 @@
+{
+  "name": "YieldGuard OSAT Operational Copilot",
+  "description": "Autonomous OSAT semiconductor quality governance copilot leveraging Gemini on Vertex AI for multimodal C-SAM acoustic scan and telemetry analysis, closed-loop MES lot-inhibit, automated 8D reports, and FMEA risk tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
